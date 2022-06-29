@@ -7,5 +7,4 @@ console.log("Hello git...");
 console.log("hi...");
 
 // function
-console.log("ali kh...");
-console.log("ali kh...");
+alert("hi my gorgeous firends...");
